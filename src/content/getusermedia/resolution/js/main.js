@@ -60,11 +60,11 @@ eightKButton.onclick = () => {
 };
 
 const qvgaConstraints = {
-  video: {width: {exact: 320}, height: {exact: 240}}
+  video: {width: {exact: 320}, height: {exact: 180}}
 };
 
 const vgaConstraints = {
-  video: {width: {exact: 640}, height: {exact: 480}}
+  video: {width: {exact: 640}, height: {exact: 360}}
 };
 
 const hdConstraints = {
